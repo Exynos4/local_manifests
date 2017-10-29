@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="Exynos4/proprietary_vendor_samsung" path="vendor/samsung" revision="exynos4-7.1" />
-  <project name="Exynos4/android_device_samsung_t0lte" path="device/samsung/t0lte" revision="exynos4-7.1" />
-  <project name="Exynos4/android_device_samsung_smdk4412-common" path="device/samsung/smdk4412-common" revision="exynos4-7.1" />
-  <project name="Exynos4/android_kernel_samsung_smdk4412" path="kernel/samsung/smdk4412" revision="exynos4-7.1" />
-  <project name="Exynos4/android_device_samsung_smdk4412-qcom-common" path="device/samsung/smdk4412-qcom-common" revision="exynos4-7.1" />
-  <project name="Exynos4/android_hardware_samsung" path="hardware/samsung" revision="exynos4-7.1" />
+  <project name="Exynos4/proprietary_vendor_samsung" path="vendor/samsung" revision="cm-14.1-rebase" />
+  <project name="Exynos4/android_device_samsung_t0lte" path="device/samsung/t0lte" revision="cm-14.1-rebase" />
+  <project name="Exynos4/android_device_samsung_smdk4412-common" path="device/samsung/smdk4412-common" revision="cm-14.1-rebase" />
+  <project name="Exynos4/android_kernel_samsung_smdk4412" path="kernel/samsung/smdk4412" revision="cm-14.1-rebase" />
+  <project name="Exynos4/android_device_samsung_smdk4412-qcom-common" path="device/samsung/smdk4412-qcom-common" revision="cm-14.1-rebase" />
+  <project name="Exynos4/android_hardware_samsung" path="hardware/samsung" revision="cm-14.1-rebase" />
   <project name="LineageOS/android_external_stlport" path="external/stlport" remote="github" />
   <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" />
 </manifest>
